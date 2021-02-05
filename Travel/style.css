@@ -10,7 +10,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  padding: 40px;
+  padding: 40px 100px;
   z-index: 1000;
   display: flex;
   justify-content: space-between;
@@ -163,14 +163,19 @@
 .menu ul li a:hover{
   color: #03a9f4;
 }
-@madia (max-width:798px) {
-  .showcase,.showcase header{
+@media (max-width: 991px)
+{
+  .showcase,
+  .showcase header
+  {
     padding: 40px;
   }
-  .text h2{
+  .text h2
+  {
     font-size: 3em;
   }
-  .text h3{
+  .text h3
+  {
     font-size: 2em;
   }
 }
