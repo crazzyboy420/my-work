@@ -1,0 +1,22 @@
+body{background-color: #F0F2F5;
+
+
+}
+.containar{
+    margin-left: 300px;
+    background-color:white;
+    width: 300px;
+    height: 200px;
+}
+.main{
+    text-align: center;
+    
+}
+#a{
+    margin: 10px;
+    width:364px;
+    height: 64px;
+    border-radius: 4px;
+    border:;
+    background-color:#F0F2F5;
+}
