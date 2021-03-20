@@ -1,0 +1,1 @@
+onclick="document.getElementByClass('btn').innerHTML='to fack'"
